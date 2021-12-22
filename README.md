@@ -14,6 +14,7 @@ JinyIcon은 두가지 방법으로 사용이 가능합니다. helper 함수를 �
 `xIcon()` 핼퍼 함수를 이용하여 다음과 같이 아이콘을 호출할 수 있습니다.
 ```php
 xIcon("o-academic-cap", $type="heroicon")->setClass("w-8 h-8");
+xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 ```
 
 ### Laravel Component
@@ -24,6 +25,8 @@ xIcon("o-academic-cap", $type="heroicon")->setClass("w-8 h-8");
 ```
 
 ## Icon set
+지니Icon은 다양한 무료 MIT의 오픈 아이콘 세트를 지원합니다. 누구나 패키지에 새로운 SVG 아이콘을 추가하여
+기여할 수 있습니다. `/resources/view` 폴더안에 `type`명의 폴더를 생성하고, svg 파일을 저장만 하여 커밋하면 됩니다.
 
 ### Heroicon
 https://heroicons.com/
