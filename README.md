@@ -69,6 +69,8 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * maki-icons
 * majestic-icons
 * lucide-icons
+* line-awesome-icons
+
 
 
 
