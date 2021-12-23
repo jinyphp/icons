@@ -28,12 +28,12 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 지니Icon은 다양한 무료 MIT의 오픈 아이콘 세트를 지원합니다. 누구나 패키지에 새로운 SVG 아이콘을 추가하여
 기여할 수 있습니다. `/resources/view` 폴더안에 `type`명의 폴더를 생성하고, svg 파일을 저장만 하여 커밋하면 됩니다.
 
-### Heroicon
-https://heroicons.com/
+* [Heroicon](https://heroicons.com/)
+* Academicons
+* Akar Icons
+* Ant Design Icons
+* Bootstrap Icons
 
-```php
-<x-heroicon name="o-academic-cap" class="w-4 h-4"/>
-```
 
 ## License
 jinyPHP icons is open-sourced software licensedd under MIT license.
