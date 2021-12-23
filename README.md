@@ -60,6 +60,8 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * rpg-awesome-icons
 * remix-icon
 * radix-icons
+* prime-icons
+
 
 
 
