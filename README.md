@@ -4,7 +4,7 @@ jinyIcon is icon generator by PHP. It is easy to use fure PHP and Laravel Framwo
 ## Install
 컴포를 이용하여 설치를 합니다.
 ```
-composer require jiny/icon
+composer require jiny/icons
 ```
 
 ## How to use
