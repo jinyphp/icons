@@ -105,8 +105,5 @@ svg 파일을 등록하시면 됩니다. 그리고 pull-request를 주시면 기
 또한, 추가 아이콘을 처리할 수 있는 다양한 아이디어가 있으시면, 코드를 작성해서 기여해 주세요.
 
 
-
-
-
 ## License
 jinyPHP icons is open-sourced software licensedd under MIT license.
