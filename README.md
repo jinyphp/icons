@@ -65,6 +65,7 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * phosphor-icons
 * pepicons
 * mono-icons
+* microns
 
 
 
