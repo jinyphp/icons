@@ -71,9 +71,31 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * lucide-icons
 * line-awesome-icons
 * jam-icons
-
-
-
+* iconpark
+* iconic
+* icomoon
+* health-icons
+* grommet-icons
+* govicons
+* google-material
+* github-octicons
+* forkawesome
+* fontisto-icons
+* fontawesome
+* fontaudio
+* fluentui-system
+* file-icons
+* feather
+* evil-icons
+* eva-icons
+* eos-icons
+* entypo
+* emblemicons
+* elusive-icons
+* devicons
+* css-icons
+* coreui-icons
+* codicons
 
 ## 코드 기여방법
 지니PHP icons 패키지는 그룹별로 등록된 SVG 아이콘을 쉽게 처리할 수 있도록 제공되는
