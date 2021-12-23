@@ -39,6 +39,8 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * clarity
 * coolicons
 * country-flags
+* cryptocurrency
+
 
 
 
