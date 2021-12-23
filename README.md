@@ -41,6 +41,12 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * country-flags
 * cryptocurrency
 
+## 코드 기여방법
+지니PHP icons 패키지는 그룹별로 등록된 SVG 아이콘을 쉽게 처리할 수 있도록 제공되는
+순수 라이브러리 입니다. 깃허브 저장소를 fork후, `/resources/view` 폴더에 새로운 아이콘 그룹과 
+svg 파일을 등록하시면 됩니다. 그리고 pull-request를 주시면 기여자로 등록됩니다.
+
+또한, 추가 아이콘을 처리할 수 있는 다양한 아이디어가 있으시면, 코드를 작성해서 기여해 주세요.
 
 
 
