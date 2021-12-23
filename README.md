@@ -36,6 +36,10 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * boxicons
 * bytesize
 * carbon
+* clarity
+* coolicons
+
+
 
 
 ## License
