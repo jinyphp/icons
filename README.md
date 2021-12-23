@@ -33,6 +33,9 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * Akar Icons
 * Ant Design Icons
 * Bootstrap Icons
+* boxicons
+* bytesize
+* carbon
 
 
 ## License
