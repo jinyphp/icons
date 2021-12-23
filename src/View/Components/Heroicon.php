@@ -4,7 +4,7 @@ namespace Jiny\Icons\View\Components;
 use Illuminate\View\Component;
 use \Jiny\Icons\View\Components\Icon;
 
-class HeroIcon extends Icon
+class Heroicon extends Icon
 {
     public function __construct($name=null)
     {
