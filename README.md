@@ -46,6 +46,7 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * coolicons
 * country-flags
 * cryptocurrency
+* zondicons
 
 ## 코드 기여방법
 지니PHP icons 패키지는 그룹별로 등록된 SVG 아이콘을 쉽게 처리할 수 있도록 제공되는
