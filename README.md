@@ -62,19 +62,9 @@ xIcon("o-academic-cap")->setType("heroicon")->setClass("w-8 h-8");
 * radix-icons
 * prime-icons
 * pixelarticons
-
-
-
-
-
-
-
-
-
-
-
-
-
+* phosphor-icons
+* pepicons
+* mono-icons
 
 
 
