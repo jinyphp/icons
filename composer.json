@@ -3,6 +3,7 @@
     "description": "icons component for Laravel",
     "type": "library",
     "license": "MIT",
+    "keywords": ["framework", "laravel", "icon", "jiny"],
     "authors": [
         {
             "name": "hojinlee",
@@ -15,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jiny\\Icon\\":"src/"
+            "Jiny\\Icons\\":"src/"
         },
         "files" : [
             "src/Helpers/Helper.php"
