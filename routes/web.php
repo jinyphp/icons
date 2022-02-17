@@ -5,7 +5,7 @@ use Illuminate\Http\Request;
 //HR
 Route::middleware(['web','auth:sanctum', 'verified'])
 ->name('icon.')
-->prefix('/jiny/icon')->group(function () {
+->prefix('/jiny/icons')->group(function () {
 
 
 
