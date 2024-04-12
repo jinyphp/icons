@@ -1,8 +1,3 @@
-<p align="center">
-    <a href="#">
-        <img src="./images/jiny.png" width="200">
-    </a>
-</p>
 
 # Icons Blade Components for Laravel
 jinyIcon is icon generator by PHP. It is easy to use fure PHP and Laravel Framwork.
